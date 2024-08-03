@@ -2,6 +2,10 @@
 // Generated on Sat 03 Aug 2024 11:45:21 AM MSK, by https://bitbucket.org/anticensority/antizapret-pac-generator-light/
 // THIS FILE IS NEITHER OBFUSCATED NOR ENCRYPTED, IT'S COMPRESSED TO COMPLY WITH BROWSER PAC FILE SIZE LIMITS.
 //
+// NOTE 1: Proxy.pac file content varies on User-Agent HTTP header.
+// NOTE 2: Some badly behaving User-Agents are banned, they get empty response.
+// NOTE 3: Do not request PAC file faster than once a minute, rate limiting is applied.
+// NOTE 4: Do not use the proxy servers outside of this file.
 
 domains = {
 "dog":{2:4,3:3,5:10,6:6},
@@ -924,14 +928,14 @@ function FindProxyForURL(url, host) {
   // remove leading www
   shost = shost.replace(/^www\.(.+)/, "$1");
 
-  fbtw = ['twitter.com', 'twimg.com', 't.co', 'x.com', 'youtube.com', '2ip.ru',
+  fbtw = ['twitter.com', 'twimg.com', 't.co', 'x.com', '2ip.ru', 'youtube.com',
           'facebook.com', 'fbcdn.net',
           'instagram.com', 'cdninstagram.com',
           'fb.com', 'messenger.com',
           'yt3.ggpht.com'
           ];
   if (fbtw.indexOf(shost) !== -1) {
-return "HTTP 127.0.0.1:1080; SOCKS5 127.0.0.1:1080; PROXY 127.0.0.1:1080; DIRECT";
+    return "HTTPS proxy.keelfy.dev:8000; SOCKS5 proxy.keelfy.dev:8000; PROXY proxy.keelfy.dev:8000; DIRECT";
   }
 
   var curdomain = shost.match(/(.*)\.([^.]+$)/);
@@ -966,7 +970,11 @@ return "HTTP 127.0.0.1:1080; SOCKS5 127.0.0.1:1080; PROXY 127.0.0.1:1080; DIRECT
   }
   if (yip === 1 || rip === 1 || curarr.indexOf(curhost) !== -1) {
 
-return "HTTP 127.0.0.1:1080; SOCKS5 127.0.0.1:1080; PROXY 127.0.0.1:1080; DIRECT";
+    // WARNING! WARNING! WARNING!
+    // You should NOT use these proxy servers outside of PAC file!
+    // DO NOT enter it manually in any program!
+    // By doing this, you harm the service!
+    return "HTTPS proxy.keelfy.dev:8000; SOCKS5 proxy.keelfy.dev:8000; PROXY proxy.keelfy.dev:8000; DIRECT";
   }
 
   return "DIRECT";
