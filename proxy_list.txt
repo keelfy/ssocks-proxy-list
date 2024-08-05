@@ -14,6 +14,7 @@
 (?:^|\.)rutor\.org$
 (?:^|\.)torproject\.com$
 (?:^|\.)facebook\.com$
+(?:^|\.)fb\.com$
 (?:^|\.)hdrezka\.ag$
 (?:^|\.)rezka\.ag$
 (?:^|\.)spotify\.com$
