@@ -5,6 +5,7 @@
 (?:^|\.)youtube\.com$
 (?:^|\.)twitter\.com$
 (?:^|\.)x\.com$
+(?:^|\.)twimg\.com$
 (?:^|\.)youtube\.com$
 (?:^|\.)yt3\.ggpht\.com$
 (?:^|\.)ggpht\.com$
@@ -17,7 +18,6 @@
 (?:^|\.)rezka\.ag$
 (?:^|\.)spotify\.com$
 (?:^|\.)netflix\.com$
-(?:^|\.)pornhub\.com$
 (?:^|\.)patreon\.com$
 (?:^|\.)metacritic\.com$
 (?:^|\.)wikipedia\.com$
@@ -44,3 +44,4 @@
 (?:^|\.)ovdinfo\.org$
 (?:^|\.)ovd\.news$
 (?:^|\.)ovd\.legal$
+(?:^|\.)archiveofourown\.org$
