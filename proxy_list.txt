@@ -5,9 +5,7 @@
 (?:^|\.)twitter\.com$
 (?:^|\.)x\.com$
 (?:^|\.)twimg\.com$
-(?:^|\.)youtu\.be$
 (?:^|\.)ytimg\.com$
-(?:^|\.)youtube-nocookie\.com$
 (?:^|\.)yt3\.ggpht\.com$
 (?:^|\.)ggpht\.com$
 (?:^|\.)ficbook\.net$
