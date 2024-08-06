@@ -45,3 +45,4 @@
 (?:^|\.)ovd\.news$
 (?:^|\.)ovd\.legal$
 (?:^|\.)archiveofourown\.org$
+(?:^|\.)chess\.com$
