@@ -5,6 +5,7 @@
 (?:^|\.)twitter\.com$
 (?:^|\.)x\.com$
 (?:^|\.)twimg\.com$
+(?:^|\.)t\.co$
 (?:^|\.)ytimg\.com$
 (?:^|\.)yt3\.ggpht\.com$
 (?:^|\.)ggpht\.com$
