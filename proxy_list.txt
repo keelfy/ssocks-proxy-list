@@ -5,7 +5,6 @@
 (?:^|\.)twitter\.com$
 (?:^|\.)x\.com$
 (?:^|\.)twimg\.com$
-(?:^|\.)youtube\.com$
 (?:^|\.)youtu\.be$
 (?:^|\.)ytimg\.com$
 (?:^|\.)youtube-nocookie\.com$
