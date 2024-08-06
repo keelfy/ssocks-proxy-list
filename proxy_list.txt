@@ -7,6 +7,9 @@
 (?:^|\.)x\.com$
 (?:^|\.)twimg\.com$
 (?:^|\.)youtube\.com$
+(?:^|\.)youtu\.be$
+(?:^|\.)ytimg\.com$
+(?:^|\.)youtube-nocookie\.com$
 (?:^|\.)yt3\.ggpht\.com$
 (?:^|\.)ggpht\.com$
 (?:^|\.)ficbook\.net$
