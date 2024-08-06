@@ -2,7 +2,6 @@
 (?:^|\.)instagram\.com$
 (?:^|\.)cdninstagram\.com$
 (?:^|\.)googlevideo\.com$
-(?:^|\.)youtube\.com$
 (?:^|\.)twitter\.com$
 (?:^|\.)x\.com$
 (?:^|\.)twimg\.com$
