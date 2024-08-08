@@ -2,6 +2,7 @@
 (?:^|\.)instagram\.com$
 (?:^|\.)ig\.me$
 (?:^|\.)cdninstagram\.com$
+(?:^|\.)igcdn\.com$
 (?:^|\.)googlevideo\.com$
 (?:^|\.)youtube\.com$
 (?:^|\.)twitter\.com$
@@ -15,9 +16,13 @@
 (?:^|\.)rutracker\.org$
 (?:^|\.)rutor\.org$
 (?:^|\.)torproject\.com$
+(?:^|\.)meta\.com$
+(?:^|\.)cdnfacebook\.com$
+(?:^|\.)fbcdn\.net$
 (?:^|\.)facebook\.com$
 (?:^|\.)facebook\.net$
 (?:^|\.)fb\.com$
+(?:^|\.)fb\.me$
 (?:^|\.)massenger\.com$
 (?:^|\.)msngr\.com$
 (?:^|\.)fbcdn\.net$
@@ -29,6 +34,8 @@
 (?:^|\.)metacritic\.com$
 (?:^|\.)wikipedia\.com$
 (?:^|\.)linkedin\.com$
+(?:^|\.)licdn\.com$
+(?:^|\.)lnkd\.in$
 (?:^|\.)redd\.it$
 (?:^|\.)reddit\.com$
 (?:^|\.)redditmedia\.com$
@@ -56,3 +63,11 @@
 (?:^|\.)ovd\.legal$
 (?:^|\.)archiveofourown\.org$
 (?:^|\.)chess\.com$
+(?:^|\.)medium\.com$
+(?:^|\.)aol\.com$
+(?:^|\.)openwrt\.org$
+(?:^|\.)proton\.me$
+(?:^|\.)tumblr\.com$
+(?:^|\.)vimeo\.com$
+(?:^|\.)vimeocdn\.com$
+
