@@ -1,5 +1,6 @@
 (?:^|\.)2ip\.ru$
 (?:^|\.)instagram\.com$
+(?:^|\.)ig\.me$
 (?:^|\.)cdninstagram\.com$
 (?:^|\.)googlevideo\.com$
 (?:^|\.)youtube\.com$
@@ -15,8 +16,10 @@
 (?:^|\.)rutor\.org$
 (?:^|\.)torproject\.com$
 (?:^|\.)facebook\.com$
+(?:^|\.)facebook\.net$
 (?:^|\.)fb\.com$
 (?:^|\.)massenger\.com$
+(?:^|\.)msngr\.com$
 (?:^|\.)fbcdn\.net$
 (?:^|\.)hdrezka\.ag$
 (?:^|\.)rezka\.ag$
@@ -26,7 +29,10 @@
 (?:^|\.)metacritic\.com$
 (?:^|\.)wikipedia\.com$
 (?:^|\.)linkedin\.com$
+(?:^|\.)redd\.it$
 (?:^|\.)reddit\.com$
+(?:^|\.)redditmedia\.com$
+(?:^|\.)redditstatic\.com$
 (?:^|\.)openmedia\.io$
 (?:^|\.)proekt\.media$
 (?:^|\.)tvrain\.ru$
