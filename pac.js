@@ -933,7 +933,7 @@ function FindProxyForURL(url, host) {
 
   fbtw = ['twitter.com', 'twimg.com', 't.co', 'x.com', 
           '2ip.ru', 
-          'googlevideo.com',
+          'googlevideo.com', 'youtube.com',
           'facebook.com', 'fbcdn.net',
           'instagram.com', 'cdninstagram.com',
           'fb.com', 'messenger.com',
