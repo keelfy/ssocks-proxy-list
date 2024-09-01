@@ -933,7 +933,7 @@ function FindProxyForURL(url, host) {
           'facebook.com', 'fbcdn.net',
           'instagram.com', 'cdninstagram.com',
           'fb.com', 'messenger.com',
-          'ytimg.com', 'youtube.com', 'googleapis.com', 'gstatic.com', 'l.google.com', 'ggpht.com', 'googleusercontent.com', 'youtu.be', 'redirector.googlevideo.com',
+          'ytimg.com', 'youtube.com', 'googleapis.com', 'gstatic.com', 'l.google.com', 'ggpht.com', 'googleusercontent.com', 'youtu.be', 'googlevideo.com', 
           'notion.so', 'notion.com',
           'miro.com'
           ];
