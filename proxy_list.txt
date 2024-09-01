@@ -70,4 +70,6 @@
 (?:^|\.)tumblr\.com$
 (?:^|\.)vimeo\.com$
 (?:^|\.)vimeocdn\.com$
-
+(?:^|\.)miro\.com$
+(?:^|\.)notion\.com$
+(?:^|\.)notion\.so$
