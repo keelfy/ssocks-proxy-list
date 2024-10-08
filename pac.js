@@ -930,7 +930,7 @@ function FindProxyForURL(url, host) {
   shost = shost.replace(/^www\.(.+)/, "$1");
 
   fbtw = [
-    '2ip.ru',
+    '2ip.ru', 'myip.com',
     'twitter.com', 'twimg.com', 't.co', 'x.com',
     'facebook.com', 'fbcdn.net',
     'instagram.com', 'cdninstagram.com',
