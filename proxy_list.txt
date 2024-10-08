@@ -82,3 +82,7 @@
 (?:^|\.)discord\.gg$
 (?:^|\.)discordapp\.net$
 (?:^|\.)discord\.media$
+(?:^|\.)discord\.dev$
+(?:^|\.)discord\.new$
+(?:^|\.)discord\.gift$
+(?:^|\.)discordstatus\.com$
