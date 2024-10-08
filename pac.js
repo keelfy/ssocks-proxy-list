@@ -935,7 +935,8 @@ function FindProxyForURL(url, host) {
           'fb.com', 'messenger.com',
           'ytimg.com', 'youtube.com', 'googleapis.com', 'gstatic.com', 'l.google.com', 'ggpht.com', 'googleusercontent.com', 'youtu.be', 'googlevideo.com', 
           'notion.so', 'notion.com',
-          'miro.com'
+          'miro.com',
+          'dis.gd', 'discord.co', 'discord.gg', 'discordapp.com', 'discord.com', 'discordcdn.com', 'discord-attachments-uploads-prd.storage.googleapis.com'
           ];
   if (fbtw.indexOf(shost) !== -1) {
 return proxy;
